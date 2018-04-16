@@ -1,0 +1,1 @@
+This example is to show the implementation of e-nfas and the simplification of the regular expression
