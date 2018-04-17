@@ -13,6 +13,6 @@ representing the input FA language and
 also a report of the steps performed
 during the conversion. 
 
-| Success parsing | Unsuccess parsing | Input example |
+| Successful parsing | Unsuccessful parsing | Input example |
 |---|---|---|
 | ![Success](https://raw.githubusercontent.com/pedrovlmartins/FA2RE-SE-COMP/master/testsuite/success.JPG)  | ![Unsuccess](https://raw.githubusercontent.com/pedrovlmartins/FA2RE-SE-COMP/master/testsuite/unsuccess.JPG)  | ![Input](https://raw.githubusercontent.com/pedrovlmartins/FA2RE-SE-COMP/master/testsuite/Example%20results/Example4%20-%20result.png)  |
