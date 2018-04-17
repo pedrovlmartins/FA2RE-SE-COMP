@@ -16,3 +16,5 @@ during the conversion.
 | Successful parsing | Unsuccessful parsing | Input example |
 |---|---|---|
 | ![Success](https://raw.githubusercontent.com/pedrovlmartins/FA2RE-SE-COMP/master/testsuite/success.JPG)  | ![Unsuccess](https://raw.githubusercontent.com/pedrovlmartins/FA2RE-SE-COMP/master/testsuite/unsuccess.JPG)  | ![Input](https://raw.githubusercontent.com/pedrovlmartins/FA2RE-SE-COMP/master/testsuite/Example%20results/Example4%20-%20result.png)  |
+
+Project developed by me, [Pedro Fraga](https://github.com/pedrofraga), [Miguel Pereira](https://github.com/mgpsp) and [Luís Oliveira](https://github.com/luisoliveira8).
