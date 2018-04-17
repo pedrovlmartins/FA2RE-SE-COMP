@@ -1,4 +1,4 @@
-**FA2RE-SE**
+# FA2RE-SE
 
 The framework receives the finite automaton in dot
 format and DSL code with rules for
